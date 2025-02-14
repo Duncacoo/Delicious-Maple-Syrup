@@ -41,4 +41,4 @@ It should be connected if you already have the Sim GUI open & AdvantageScope loo
 
 *Do be mindful that it is currently in `Field-Centric` mode*
 ## Credit
-[Original Project](https://github.com/Mechanical-Advantage/AdvantageKit/releases/download/v4.0.0-beta-1/AdvantageKit_TalonFXSwerveTemplate.zip) 
+[Source](https://shenzhen-robotics-alliance.github.io/maple-sim/) 
