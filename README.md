@@ -15,7 +15,7 @@ To run the simulator you need to install a few pieces of software.
   5. Paste into the text field & press enter. Find a good spot to put the repository.
   6. Upon opening the cloned repository; if it asks to update it **say no**<sup>3</sup>
   7. Disregard errors until you run a simulation (Press CTRL + Shift + P then type `WPILib: Simulate Robot Code`)
-  8. If the build was successful a prompt should open to open sim gui, but if it wasn't successful reach out
+  8. If the build was successful a prompt should open to open Sim GUI, but if it wasn't successful reach out
 
   ![CopyLocation](https://github.com/user-attachments/assets/28ce9daa-99d8-4dcb-83a5-2170d500cb44)
   
@@ -26,5 +26,6 @@ To run the simulator you need to install a few pieces of software.
 ## AdvantageScope
   1. Open `AdvantageScope`
   2. File -> Import Layout -> repository folder -> `AdvantageScope Simulation.json`
+  3. Connect to Simulator
 ## Credit
 [Original Project](https://github.com/Mechanical-Advantage/AdvantageKit/releases/download/v4.0.0-beta-1/AdvantageKit_TalonFXSwerveTemplate.zip) 
